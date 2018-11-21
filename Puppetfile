@@ -60,7 +60,7 @@ mod 'netstat',
   :git => 'https://github.com/ipcrm/ipcrm-netstat.git',
   :ref => 'master'
 
-mod 'os_profiles',
+mod 'os_profile',
   :git => 'http://18.235.59.166/puppet/os_profiles.git',
   :ref => 'e9a3be4a2853154a748d9a09696ae4f5a6a38a4f'
 
