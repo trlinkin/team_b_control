@@ -62,5 +62,5 @@ mod 'netstat',
 
 mod 'os_profile',
   :git => 'http://18.235.59.166/puppet/os_profiles.git',
-  :ref => '619c14be2d83720f7a2fd49f7cc7bafba5db65c3'
+  :ref => '492a91eb3fa0507b7df02f38643226b4137a79dc'
 
