@@ -44,6 +44,8 @@ mod 'stahnma-epel', '1.3.1'
 mod 'stankevich-python', '1.18.2'
 mod 'thias-sysctl', '1.0.6'
 mod 'yelp-uchiwa', '2.0.0'
+mod 'hunner-wordpress', '1.0.0'
+
 
 mod 'tse-tse_facts',
   :git => 'https://github.com/puppetlabs/tse-module-tse_facts.git'
